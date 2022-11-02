@@ -1,2 +1,2 @@
 # seedinfotech
-my frist project no1
+my first project no1
